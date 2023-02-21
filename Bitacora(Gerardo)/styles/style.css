@@ -1,14 +1,18 @@
-html {
-    font-size: 15px; /*px quiere decir "pixeles":Es el tamaño de la fuente base es ahora de 10 pixeles de altura*/
+html {/*html*/
+    font-size: 22px; /*px quiere decir "pixeles":Es el tamaño de la fuente base es ahora de 10 pixeles de altura*/
     font-family:"Open Sans",sans-serif;/*Este debe ser el resto de el resultado que obtuviste de google fonts*/
 }
-h1{
-    font-size: 60px;
-    text-align: center;
+h1{/*h1*/
+    font-size: 60px;/*px quiere decir "pixeles":Es el tamaño de la fuente base es ahora de 10 pixeles de altura*/
+    text-align: center;/*centramos el texto*/
 }
 
-p,li{
-    font-size: 20px;
-    line-height: 2;
-    letter-spacing: 0px;
+p,li{/*comentarios y listas*/
+    font-size: 15px;/*px quiere decir "pixeles":Es el tamaño de la fuente base es ahora de 10 pixeles de altura*/
+    line-height: 3;/*altura de las lineas*/
+    letter-spacing: 1px;/*espacio entre letras*/
+}
+
+body{
+    background-color: rgb(210, 255, 240);
 }
