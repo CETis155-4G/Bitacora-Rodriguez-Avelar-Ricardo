@@ -8,9 +8,10 @@ h1{/*h1*/
 }
 
 p,li{/*comentarios y listas*/
-    font-size: 15px;/*px quiere decir "pixeles":Es el tamaño de la fuente base es ahora de 10 pixeles de altura*/
-    line-height: 3;/*altura de las lineas*/
-    letter-spacing: 1px;/*espacio entre letras*/
+    font-size: 20px;/*px quiere decir "pixeles":Es el tamaño de la fuente base es ahora de 10 pixeles de altura*/
+    line-height:2;/*altura de las lineas*/
+    letter-spacing: 0px;/*espacio entre letras*/
+    font-family: "Arial";
 }
 
 body{
