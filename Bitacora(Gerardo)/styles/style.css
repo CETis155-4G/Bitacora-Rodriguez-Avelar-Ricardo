@@ -2,9 +2,11 @@ html {/*html*/
     font-size: 22px; /*px quiere decir "pixeles":Es el tamaño de la fuente base es ahora de 10 pixeles de altura*/
     font-family:"Open Sans",sans-serif;/*Este debe ser el resto de el resultado que obtuviste de google fonts*/
 }
-h1{/*h1*/
-    font-size: 60px;/*px quiere decir "pixeles":Es el tamaño de la fuente base es ahora de 10 pixeles de altura*/
+h1,h2,h3{/*h1*/
+    color: rgb(255, 0, 0);
+    font-size: 30px;/*px quiere decir "pixeles":Es el tamaño de la fuente base es ahora de 10 pixeles de altura*/
     text-align: center;/*centramos el texto*/
+    font-family: "cursive";
 }
 
 p,li{/*comentarios y listas*/
@@ -15,5 +17,5 @@ p,li{/*comentarios y listas*/
 }
 
 body{
-    background-color: rgb(210, 255, 240);
+    background-color: rgb(248, 234, 254);
 }
