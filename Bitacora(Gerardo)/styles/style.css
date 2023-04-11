@@ -3,7 +3,7 @@ html {/*html*/
     font-family:"Open Sans",sans-serif;/*Este debe ser el resto de el resultado que obtuviste de google fonts*/
 }
 h1,h2,h3,h4{/*h1*/
-    color: rgb(0, 221, 255);
+    color: rgb(255, 187, 0);
     font-size: 30px;/*px quiere decir "pixeles":Es el tamaño de la fuente base es ahora de 10 pixeles de altura*/
     text-align: center;/*centramos el texto*/
     font-family: "cursive";/*fuente de la letra*/
@@ -18,4 +18,7 @@ p,li{/*comentarios y listas*/
 
 body{
     background-color: rgb(255, 255, 255);/*color del fondo*/
+}
+nav{
+    background-color: brown;
 }
